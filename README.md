@@ -1,1 +1,2 @@
-# Smart-Control
+# Iot Smart  Energy Monitor and Automated Overload Control System
+An ESP32-powered IoTpower distribution system that gathers parameters over UART via PZEM-OO4 sensor module. The system actively processes parameters locally, manages real time dual channel output loads via digital relays, exposes an interactive HTTP local web dashboard and uses external API cellular warning notification during abnormalities .
